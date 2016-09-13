@@ -2,7 +2,6 @@
 #Zovich Was Here
 
 #Persib 2 add your name here hoe
-#Joshua Dvorak
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
