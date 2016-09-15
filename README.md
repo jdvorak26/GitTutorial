@@ -1,9 +1,15 @@
 # README
 #Zovich Was Here
 
+<<<<<<< HEAD
 #Persin 2 add your name here hoe
+=======
+#Joshua Dvorak
+>>>>>>> todoModel
 This README would normally document whatever steps are necessary to get the
 application up and running.
+
+
 
 Things you may want to cover:
 
@@ -24,7 +30,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Todo.create!(title: 'do homework', notes: 'math homework due Wednesday')
-Todo.create!(title: 'wash dishes', notes: 'fine silverware needs polishing')
-Todo.create!(title: 'buy dog food', notes: 'get the Kibble and Bits brand')
-Todo.create!(title: 'pay cell phone bill', notes: 'cell phone bill due Tuesday')
+

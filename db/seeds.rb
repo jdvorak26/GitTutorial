@@ -9,4 +9,7 @@ Todo.create!(title: 'do homework', notes: 'math homework due Wednesday')
 Todo.create!(title: 'wash dishes', notes: 'fine silverware needs polishing')
 Todo.create!(title: 'buy dog food', notes: 'get the Kibble and Bits brand')
 Todo.create!(title: 'pay cell phone bill', notes: 'cell phone bill due Tuesday')
+<<<<<<< HEAD
 
+=======
+>>>>>>> todoModel
